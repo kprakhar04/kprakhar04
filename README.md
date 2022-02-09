@@ -1,6 +1,6 @@
 ### Hi there  I'm Prakhar
 
-- 🔭 I’m currently working on SpringBoot 
+- 🔭 I’m currently working on CSS, JavaScript
 - 💬 Ask me about Java, JavaScript
 - 📫 How to reach me:-
 
