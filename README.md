@@ -1,7 +1,7 @@
 ### Hi there  I'm Prakhar
 
-- 🔭 I’m currently working on CSS, JavaScript
-- 💬 Ask me about Java, JavaScript
+- 🔭 I’m currently working on CSS, JavaScript, React & Redux
+- 💬 Ask me about JavaScript
 - 📫 How to reach me:-
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kprakhar04/)
